@@ -1,0 +1,7 @@
+F:\DevOps\Day2\request\SimpleProgram\bin\Debug\SimpleProgram.exe.config
+F:\DevOps\Day2\request\SimpleProgram\bin\Debug\SimpleProgram.exe
+F:\DevOps\Day2\request\SimpleProgram\bin\Debug\SimpleProgram.pdb
+F:\DevOps\Day2\request\SimpleProgram\obj\Debug\SimpleProgram.csprojAssemblyReference.cache
+F:\DevOps\Day2\request\SimpleProgram\obj\Debug\SimpleProgram.csproj.CoreCompileInputs.cache
+F:\DevOps\Day2\request\SimpleProgram\obj\Debug\SimpleProgram.exe
+F:\DevOps\Day2\request\SimpleProgram\obj\Debug\SimpleProgram.pdb
