@@ -27,9 +27,11 @@ namespace SimpleProgram
 
              int sum = a + b;
             int product = a * b;
+            int diff = a - b;
 
             Console.WriteLine("The Sum is " + sum);
             Console.WriteLine("The product is " + product);
+            Console.WriteLine("The Difference is " + diff);
 
             Console.ReadKey();
         }
