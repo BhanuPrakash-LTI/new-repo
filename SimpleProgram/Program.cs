@@ -26,12 +26,14 @@ namespace SimpleProgram
             while (b == 0);
 
              int sum = a + b;
-            int product = a * b;
+            long product = a * b;
             int diff = a - b;
+            int div = a / b;
 
             Console.WriteLine("The Sum is " + sum);
             Console.WriteLine("The product is " + product);
             Console.WriteLine("The Difference is " + diff);
+            Console.WriteLine("The division is " + div);
 
             Console.ReadKey();
         }
